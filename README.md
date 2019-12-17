@@ -1,6 +1,7 @@
 # GitHub Classroom Guide for Students
 
-This is a guide for students to setup Git and GitHub for use with GitHub Classroom. You may use RStudio in our class, so we will give instructions on how to use RStudio to setup Git locally. You may want to use [Github Desktop](https://desktop.github.com) instead of RStudio for managing your GitHub repo with a GUI.
+This is a guide for students to setup Git and GitHub for use with GitHub Classroom. You may use RStudio in our class, so we will give instructions on how to use RStudio to setup Git locally. You may want to use [Github Desktop](https://desktop.github.com) instead of RStudio for managing your GitHub repo with a GUI.  If you are not familiar with the command-line, I would encourage you to use RStudio or GitHub Desktop to ensure that your updates are pushed back to GitHub. 
+
 <!-- However, this is not necessary. -->
 
 **MCW Note:** These instructions were originally generated Jacob Fiksel (@jfiksel), so many of the images and examples will refer to his course. I've made some minor changes, but for the most part following these instructions will get you setup with GitHub and RStudio for use in our ODU CS 432/532 course. Mainly where you see *advanced-biostatistics-lab-fall-2017*, just replace that with *cs432-spr-2020*.
